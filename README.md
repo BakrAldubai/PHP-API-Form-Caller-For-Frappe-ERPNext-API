@@ -2,10 +2,16 @@
 A simple PHP API Calling Application for frappe ERPnext app API
 
 # Screenshots
+ 
+ 
+   # Before Sending :
 <div align="center">
-  # Before Sending :
   <img src="https://github.com/BakrAldubai/PHP-API-Form-Caller-For-Frappe-ERPNext-API/blob/main/1.PNG" >
-  # After Sending :
+  </div>
+  <br>
+  
+   # After Sending :
+<div align="center">
   <img src="https://github.com/BakrAldubai/PHP-API-Form-Caller-For-Frappe-ERPNext-API/blob/main/2.PNG">
 </div>
 
